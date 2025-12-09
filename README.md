@@ -1,2 +1,2 @@
 # Customer-Segmentation-Clusters-Project
-Customer segmentation using clustering groups customers based on similar behaviours or characteristics, helping businesses better understand and target different customer groups.
+This analysis applies Exploratory Data Analysis and K-Means clustering supported by visualizations such as histograms, pair plots, heatmaps, box plots, and count plots, as well as metrics like the Elbow Method and Silhouette Score to identify optimal customer segments and reveal clear behavioural patterns for targeted strategies.
