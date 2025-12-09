@@ -18,7 +18,7 @@ https://github.com/Vandangowda9/Customer-Segmentation-Clusters-Project/blob/main
 <img width="839" height="565" alt="Elbow Method" src="https://github.com/user-attachments/assets/79bb64dc-3a5c-46fc-b261-be17a0368c8b" /></br>
 ## Silhouette Score Image: 
 <img width="824" height="530" alt="Silhouette Score" src="https://github.com/user-attachments/assets/5eed82bb-edb5-4be4-bd03-7a8a3525f155" /></br>
-## Cluster Visualization: 
+## Cluster Visualization Image: 
 <img width="614" height="580" alt="Scatter Plots of Final Clusters" src="https://github.com/user-attachments/assets/538d316d-5c5f-437a-ba53-a2fca48c3748" />
 
 # Next Steps / Recommendations
