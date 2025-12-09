@@ -21,3 +21,12 @@ https://github.com/Vandangowda9/Customer-Segmentation-Clusters-Project/blob/main
 ## Cluster Visualization: 
 <img width="614" height="580" alt="Scatter Plots of Final Clusters" src="https://github.com/user-attachments/assets/538d316d-5c5f-437a-ba53-a2fca48c3748" />
 
+# Next Steps / Recommendations
+•	The first step is to profile each customer cluster using additional demographic and behavioural variables to create meaningful labels for each segment.</br>
+•	Personalized marketing strategies should be designed for each cluster to improve engagement and conversion.</br>
+•	Loyalty programs can be implemented for frequent buyers to increase retention.</br>
+•	Promotions or targeted discounts should be offered to price-sensitive customers to boost sales.</br>
+•	Feature engineering, including RFM (Recency, Frequency, Monetary) analysis, should be carried out to improve customer understanding and segmentation accuracy.</br>
+•	Predictive models can be tested on different customer segments to identify churn risks and forecast customer lifetime value.</br>
+•	A customer segmentation dashboard should be developed to monitor performance and support real-time decision-making.
+
