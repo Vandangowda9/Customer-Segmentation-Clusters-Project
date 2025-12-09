@@ -12,5 +12,7 @@ This project stands out because it leverages advanced exploratory analysis and c
 # Repository Structure
 ## Data:
 https://github.com/Vandangowda9/Customer-Segmentation-Clusters-Project/blob/main/Mall_Customers.csv</br>
-## Project:
-https://github.com/Vandangowda9/Customer-Segmentation-Clusters-Project/blob/main/Customer%20Analysis.ipynb
+## Working Project:
+https://github.com/Vandangowda9/Customer-Segmentation-Clusters-Project/blob/main/Customer%20Analysis.ipynb</br>
+## Elbow Method Image: 
+<img width="839" height="565" alt="Elbow Method" src="https://github.com/user-attachments/assets/79bb64dc-3a5c-46fc-b261-be17a0368c8b" />
