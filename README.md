@@ -10,3 +10,5 @@ This analysis applies Exploratory Data Analysis and K-Means clustering supported
 This project stands out because it leverages advanced exploratory analysis and clustering techniques to uncover meaningful customer groups, providing clear, actionable insights that help businesses personalize strategies, optimize marketing efforts, and make smarter data-driven decisions.
 
 # Repository Structure
+## Data:
+https://github.com/Vandangowda9/Customer-Segmentation-Clusters-Project/blob/main/Mall_Customers.csv</br>
